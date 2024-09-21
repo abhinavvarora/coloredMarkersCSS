@@ -9,8 +9,6 @@
 <div align="center">
   <figure>
     <img src="preview.png" alt="Image of 3 colored markers" />
-    <figcaption>
-      Preview of the webpage
-    </figcation>
+    <figcaption>Preview of the webpage</figcation>
   </figure>
 </div>
